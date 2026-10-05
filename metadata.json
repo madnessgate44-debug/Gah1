@@ -1,0 +1,6 @@
+{
+  "name": "GAHIZ",
+  "description": "AI-powered personal network intelligence system built around Six Degrees of Separation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
